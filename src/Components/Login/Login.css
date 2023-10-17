@@ -1,0 +1,19 @@
+.bgImage
+{
+	background: linear-gradient(to bottom, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.5)),
+		url("https://assets.nflxext.com/ffe/siteui/vlv3/42df4e1f-bef6-499e-87ff-c990584de314/605d1dc5-94ed-4869-a2fc-e60ce35bfc5c/EG-en-20230904-popsignuptwoweeks-perspective_alpha_website_large.jpg");
+	height: 100vh;
+
+}
+.form-body
+{
+    background-color: rgba(0, 0, 0, 0.6);
+}
+.showPass
+{
+	position: absolute;
+	right: 1%;
+	top: 20%;
+	cursor: pointer;
+	display: none;
+}
